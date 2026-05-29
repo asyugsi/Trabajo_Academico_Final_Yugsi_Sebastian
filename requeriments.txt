@@ -1,0 +1,6 @@
+pandas
+matplotlib
+bokeh
+pygwalker==0.3.20
+scikit-learn
+ipywidgets widgetsnbextension

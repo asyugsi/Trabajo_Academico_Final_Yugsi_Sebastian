@@ -1,4 +1,5 @@
 pandas
+faker
 matplotlib
 bokeh
 pygwalker==0.3.20
